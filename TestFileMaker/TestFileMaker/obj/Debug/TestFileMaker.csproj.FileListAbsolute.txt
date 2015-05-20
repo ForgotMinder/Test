@@ -1,6 +1,0 @@
-c:\users\794\documents\visual studio 2013\Projects\TestFileMaker\TestFileMaker\bin\Debug\TestFileMaker.exe.config
-c:\users\794\documents\visual studio 2013\Projects\TestFileMaker\TestFileMaker\bin\Debug\TestFileMaker.exe
-c:\users\794\documents\visual studio 2013\Projects\TestFileMaker\TestFileMaker\bin\Debug\TestFileMaker.pdb
-c:\users\794\documents\visual studio 2013\Projects\TestFileMaker\TestFileMaker\obj\Debug\TestFileMaker.csprojResolveAssemblyReference.cache
-c:\users\794\documents\visual studio 2013\Projects\TestFileMaker\TestFileMaker\obj\Debug\TestFileMaker.exe
-c:\users\794\documents\visual studio 2013\Projects\TestFileMaker\TestFileMaker\obj\Debug\TestFileMaker.pdb
